@@ -6,6 +6,8 @@ If you have never registered, start by signed up. After signed up, you can start
 From the menu option, you can change the game's settings(game size, game shapes...) and your user settings or you can access information about the game.
 The game is played by bringing 5 shapes of the same color side by side and removing them from the game board. Select the shape you want to move and click on an empty area where you want to bring the shape. The game will end when there is no room left on the game board.
 
+![z](https://user-images.githubusercontent.com/102357822/197343482-cfc722dc-e2a5-464d-912b-752c1d990824.png)
+
 ## Project Description
 
 The system has pre-registered multiple users.
