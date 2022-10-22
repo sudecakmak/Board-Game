@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logininfo>
+  <Admin>
+    <Username>Admin</Username>
+    <Password>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</Password>
+    <Color>Green</Color>
+    <Difficulty>3x3</Difficulty>
+    <Shape>Square</Shape>
+    <Score>Score - 10</Score>
+  </Admin>
+  <User>
+    <Username>User</Username>
+    <Password>04f8996da763b7a969b1028ee3007569eaf3a635486ddab211d512c85b9df8fb</Password>
+    <Name-Surname>
+    </Name-Surname>
+    <PhoneNumber>
+    </PhoneNumber>
+    <Address>
+    </Address>
+    <City>
+    </City>
+    <Country>
+    </Country>
+    <E-mail>
+    </E-mail>
+    <Color>Red,Green</Color>
+    <Difficulty>4x4</Difficulty>
+    <Shape>Square</Shape>
+    <Score>Score - 75
+	   Score - 125
+	   Score - 70</Score>
+    <BestScore>125</BestScore>
+  </User>
+  <User>
+    <Username>sudecakmak</Username>
+    <Password>748e40fbd9b4319c1c852f8bd228cc86fd85333b20f724e0c3d946276b05e8d8</Password>
+    <Name-Surname>Sude Çakmak</Name-Surname>
+    <PhoneNumber>+90 531 929 10 61</PhoneNumber>
+    <Address>Odunpazarı/Eskişehir</Address>
+    <City>Eskişehir</City>
+    <Country>Türkiye</Country>
+    <E-mail>sudecakmak@gmail.com</E-mail>
+    <Color>-999</Color>
+    <Difficulty>-999</Difficulty>
+    <Shape>-999</Shape>
+    <Score>Score - 70</Score>
+    <BestScore>70</BestScore>
+  </User>
+  <User>
+    <Username>cihanbaristurgut</Username>
+    <Password>7bdb1362ef632c22fe4819190219a06493e8c25468e1db68986f25503e40d851</Password>
+    <Name-Surname>Cihan Barış Turgut</Name-Surname>
+    <PhoneNumber>+905343653195</PhoneNumber>
+    <Address>Tepebaşı/Eskişehir</Address>
+    <City>adana</City>
+    <Country>Türkiye</Country>
+    <E-mail>cihanbaristurgut@gmail.com</E-mail>
+    <Color>-999</Color>
+    <Difficulty>-999</Difficulty>
+    <Shape>-999</Shape>
+    <Score>Score - 50</Score>
+    <BestScore>50</BestScore>
+  </User>
+</logininfo>
