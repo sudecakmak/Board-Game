@@ -138,3 +138,7 @@ When the user makes a move, game plays a sound for each step.
 - At the end of the steps, if the user takes a score point, game plays a  different sound
 
 Created a database to store all user data(name, password, scores etc. (not settings)).
+
+# Other Creator
+
+- [Cihan Barış Turgut](https://github.com/CihanBarisTurgut)
