@@ -1,6 +1,19 @@
 # Board-Game
 An oop project where user interaction and user data are collected in database.
 
+## Table of Contents
+- [How to Play](#how-to-play)
+- [Project Description](#project-description)
+- [Login Screen](#login-screen)
+- [Profile Screen](#profile-screen)
+- [Manager Screen](#manager-screen)
+- [Setting Screen](#setting-screen)
+- [Sign up Screen](#sign-up-screen)
+- [Help Screen](#help-screen)
+- [About Screen](#about-screen)
+- [Password Screen](#password-screen)
+- [Other Creator](#other-creator)
+
 # How to Play
 If you have never registered, start by signed up. After signed up, you can start the game by entering your username and password.
 From the menu option, you can change the game's settings(game size, game shapes...) and your user settings or you can access information about the game.
@@ -138,6 +151,38 @@ scores.
 - At the end of the steps, if the user takes a score point, game plays a  different sound
 
 30. Created a database to store all user data(name, password, scores etc. (not settings)).
+
+## Login Screen
+![Screenshot 2022-11-20 161719](https://user-images.githubusercontent.com/102357822/202904566-76ed84c8-f9c8-4e25-8384-28b704c22e4d.png)
+
+
+## Profile Screen
+![Screenshot 2022-11-20 161933](https://user-images.githubusercontent.com/102357822/202905019-44ea1d05-0053-4710-83c0-bd5ca426d832.png)
+
+
+## Manager Screen
+![Screenshot 2022-11-20 161907](https://user-images.githubusercontent.com/102357822/202904613-9c2a4f14-506d-4380-a51a-763e4b540a92.png)
+
+
+## Setting Screen
+![Screenshot 2022-11-20 162231](https://user-images.githubusercontent.com/102357822/202905026-a87e4272-8971-4b2b-9279-494a5e684624.png)
+
+
+## Sign up Screen
+![Screenshot 2022-11-20 162253](https://user-images.githubusercontent.com/102357822/202905042-247c9728-9142-42eb-b972-b5ad363c0a39.png)
+
+
+## Help Screen
+![Screenshot 2022-11-20 162149](https://user-images.githubusercontent.com/102357822/202905056-7a6260c3-8a45-4d02-b3d0-dcbc489a4456.png)
+
+
+## About Screen
+![Screenshot 2022-11-20 162107](https://user-images.githubusercontent.com/102357822/202905050-9a1054aa-b72a-4946-8a73-403e02bdc3d7.png)
+
+
+## Password Screen
+![Screenshot 2022-11-20 162042](https://user-images.githubusercontent.com/102357822/202905069-a6bf79ee-046d-48f5-8572-0ee7810800db.png)
+
 
 # Other Creator
 
