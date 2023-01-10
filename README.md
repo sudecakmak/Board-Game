@@ -4,7 +4,7 @@ An oop project where user interaction and user data are collected in database.
 ## Table of Contents
 - [How to Play](#how-to-play)
 - [Project Description](#project-description)
-- [Game Screens(#game-screens)
+- [Game Screens](#game-screens)
   - [Login Screen](#login-screen)
   - [Profile Screen](#profile-screen)
   - [Manager Screen](#manager-screen)
