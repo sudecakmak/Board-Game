@@ -4,14 +4,15 @@ An oop project where user interaction and user data are collected in database.
 ## Table of Contents
 - [How to Play](#how-to-play)
 - [Project Description](#project-description)
-- [Login Screen](#login-screen)
-- [Profile Screen](#profile-screen)
-- [Manager Screen](#manager-screen)
-- [Setting Screen](#setting-screen)
-- [Sign up Screen](#sign-up-screen)
-- [Help Screen](#help-screen)
-- [About Screen](#about-screen)
-- [Password Screen](#password-screen)
+- [Game Screens(#game-screens)
+  - [Login Screen](#login-screen)
+  - [Profile Screen](#profile-screen)
+  - [Manager Screen](#manager-screen)
+  - [Setting Screen](#setting-screen)
+  - [Sign up Screen](#sign-up-screen)
+  - [Help Screen](#help-screen)
+  - [About Screen](#about-screen)
+  - [Password Screen](#password-screen)
 - [Other Creator](#other-creator)
 
 # How to Play
@@ -151,6 +152,8 @@ scores.
 - At the end of the steps, if the user takes a score point, game plays a  different sound
 
 30. Created a database to store all user data(name, password, scores etc. (not settings)).
+
+# Game Screens
 
 ## Login Screen
 ![Screenshot 2022-11-20 161719](https://user-images.githubusercontent.com/102357822/202904566-76ed84c8-f9c8-4e25-8384-28b704c22e4d.png)
